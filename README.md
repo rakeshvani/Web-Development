@@ -1,2 +1,2 @@
 # Web-Development
-In this series we learn html,css,bootstrap,javascripts
+In this series we learn html and its syntax
